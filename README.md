@@ -21,7 +21,7 @@ The goal with this project was to create a to-do list with reactjs. It was devel
 - [CSS](https://www.w3schools.com/css/)
 - [React.js](https://reactjs.org/)
 
-## Licença
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
